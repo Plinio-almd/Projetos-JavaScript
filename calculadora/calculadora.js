@@ -59,19 +59,20 @@ function calculadora() {
             }
         }        
 
-        // if (operacao == 1) {
-        //     soma(); 
-        // }else if (operacao == 2) {
-        //     subtracao();
-        // }else if (operacao == 3) {
-        //     multiplicacao();
-        // }else if (operacao == 4) {
-        //     divisaoReal();
-        // }else if (operacao == 5) {
-        //     divisaoInteiro();
-        // }else if (operacao == 6) {
-        //     potenciacao();
-        // }
+        /*if (operacao == 1) {
+            soma(); 
+        }else if (operacao == 2) {
+            subtracao();
+        }else if (operacao == 3) {
+            multiplicacao();
+        }else if (operacao == 4) {
+            divisaoReal();
+        }else if (operacao == 5) {
+            divisaoInteiro();
+        }else if (operacao == 6) {
+            potenciacao();
+        }*/
+        
         switch (operacao) {
             case 1:
                 soma();
